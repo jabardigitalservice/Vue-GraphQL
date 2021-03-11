@@ -1,7 +1,7 @@
 # vue-graphql
 
 ```console
-git clone https://github.com/jabardigitalservice/vue-graphql.git
+git clone https://github.com/jabardigitalservice/Vue-GraphQL.git
 ```
 
 ## Set the environment variables todo-client:
